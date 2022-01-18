@@ -1,0 +1,13 @@
+.console_history
+*.json
+*.yml
+cache/
+eula.txt
+libraries/
+logs/
+plugins/
+screenlog
+server.jar
+server.properties
+start.sh
+versions/
